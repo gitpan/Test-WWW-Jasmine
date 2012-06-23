@@ -22,4 +22,4 @@ requires:
 resources:
   bugtracker: http://github.com/nohuhu/Test-WWW-Jasmine/issues
   repository: http://github.com/nohuhu/Test-WWW-Jasmine
-version: 0.01
+version: 0.02
